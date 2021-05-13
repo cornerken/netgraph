@@ -5,10 +5,10 @@
 
 
 * 釜山行中文文本 busan.txt
-* 人物名词       dict.txt
-* 主要程序       busan.py
-* 提取结果（节点） 
-* 提取关系结果 （边）
+* 人物名词           dict.txt
+* 主要程序           busan.py
+* 提取结果（节点）   busan_node.txt 
+* 提取关系结果（边） busan_edge.txt
 
 
 ![result](https://user-images.githubusercontent.com/41567643/118074327-406f1500-b3e0-11eb-8b26-86a2540dcce1.png)
